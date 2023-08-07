@@ -23,7 +23,6 @@ To harness the power of the Hybrid Assembly Force Calculator:
    ./r.sh
 Run the generated my.out executable to launch the calculator:
 
-    ```bash
     ./my.out
     
 Follow the on-screen instructions to input the required parameters and unveil the calculated braking force.
